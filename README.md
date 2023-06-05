@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align = "center">
+  ### Hi there 👋 I'm Samuel, 17y/o
+</h1>
 <!--
 **SamuelWoszak/SamuelWoszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
