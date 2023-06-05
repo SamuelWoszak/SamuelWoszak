@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWoszak&hide_progress=true)](https://github.com/SamuelWoszak/github-readme-stats)
+[![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamuelWoszak)](https://github.com/SamuelWoszak/github-readme-stats)
