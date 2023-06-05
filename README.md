@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Woszak&show_icons=true&theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamuelWoszak&show_icons=true&theme=radical " />
