@@ -1,7 +1,5 @@
-<h1 align = "center">
-  Hi there 👋 I'm Samuel
-</h1>
-<!--
+Hi there 👋 I'm Samuel
+  <!--
 **SamuelWoszak/SamuelWoszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelWoszak&show_icons=true&theme=radical) 
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=SamuelWoszak&show_icons=true&theme=radical" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWoszak&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWoszak&show_icons=true&theme=radical)](https://github.com/SamuelWoszak/github-readme-stats)
+
