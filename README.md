@@ -1,5 +1,5 @@
 <h1 align = "center">
-  Hi there 👋 I'm Samuel, 17y/o
+  Hi there 👋 I'm Samuel
 </h1>
 <!--
 **SamuelWoszak/SamuelWoszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamuelWoszak)](https://github.com/SamuelWoszak/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Woszak&show_icons=true&theme=radical)
