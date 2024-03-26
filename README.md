@@ -1,6 +1,6 @@
 Hi there 👋 I'm Samuel 17yo
 
-- I’m currently learning [![skills](https://skillicons.dev/icons?i=js,py, css, html)](https://skillicons.dev)
+- I’m currently learning [![skills](https://skillicons.dev/icons?i=js,py,html,css)](https://skillicons.dev)
 - Pronouns: He/Him | They/Them
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamuelWoszak&show_icons=true&theme=radical" />
